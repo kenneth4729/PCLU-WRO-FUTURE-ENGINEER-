@@ -1,11 +1,11 @@
 # PCLU 
 Hey! if you're reading this, We are the Team ARAPAAP symbolyze the dream and hope of our team. Thank you in advance for taking in consideration to read our report for the self driving car category, We hope you enjoy reading our report
 
-Team Name: ARAPAAP
+Team Name: Polytech
 
-Robot Name:
+Robot Name: Arapaap
 
-Match Name: Self Driving Car
+Match Name: Self-Driving Car
 
 - [1.0 Introduction](#10-Introduction)
   - [1.1 About us!!](#11-About-us)
@@ -16,14 +16,26 @@ Match Name: Self Driving Car
   - [2.2 Flow diagram](#22-Flow-diagram)
   - [2.3 Why aisteam?](#23-Why-aisteam?)
 - [3.0 Mobility management](#30-Mobility-management)
-
-
-
-
-
-
-
-
+  - [3.1 Bill of materials](#31-bill-of-material)
+  - [3.2 Wiring diagram](#32-wiring-diagram)
+  - [3.3 Motor axle](#33-Motor-axle)
+  - [3.4 Rock and pinion system](#34-Rock-and-pinion-system)
+      - [3.4.1 How the system works?](#341-How-the-system-works?)
+- [4.0 Power management](#41-Power-management)
+  - [4.1 Power source](#42-Power-source)
+  - [4.2 Camera](#42-Camera)
+- [5.0 Building the robot](#50-Building-the-robot)
+  - [5.1 Base](#51-Base)
+  - [5.2 Robot components](#52-Robot-components)
+  - [5.3 Wiring](#53-Wiring)
+- [6.0 Srategy](#60-Strategy)
+  - [6.1 Walls](#61-Walls)
+  - [6.2 Open challenge](#62-Open-challenge)
+  - [6.3 Obstacle challenge](#63-Obstacle-challenge)
+- [7.0 Parking strategy](#70-Parking-system)
+  - [7.1 Open challenge video](#71-Open-challenge)
+  - [7.2 Obstacle challenge video](#72-Obstacle-challenge-video)
+  
 # 1.0 Introduction
 
 ## 1.1 About us!!
@@ -53,10 +65,18 @@ Because aisteam is more compatible on open MV Camera and the components of the a
 
 ## 3.2 Wiring diagram
 
+## 3.3 Motor axle system
+
+## 3.4 Rock and pinion system
+Our self driving car uses an Rack and pinion steering system which provides precise and stable controls for moving and turning. This system is use so our vehicle can turn on the corners smoothly with this kind of system its makes our work a lot easier when turning.
+
+### 3.4.1 How the system works?
+The rack and pinion steering system converts the rotational motion of your steering wheel into the linear motion needed to turn the car's wheel. This system is used to reduce the tires in slipping and prevents oversteer and understeer. Pressure must be constantly applied for the steering gear to be in contact with pinion bar.
+
 # 4.0 Power management
 
 ## 4.1 Power source 
-The aisteam 
+The battery powering our self driving car is an rechargable Lithium battery moduelCOur self driving car uses an Rack and pinion steering system which provides precise and stable controls for moving and turning. This system is use so our vehicle can turn on the corners smoothly with this kind of system its makes our work a lot easier when turning.
 
 ## 4.2 Camera
 For the camera we use an open MV camera because it is more compatible for aisteam. This camera allows us to see and detect the walls and obstacles like red and green 
@@ -73,13 +93,12 @@ For the camera we use an open MV camera because it is more compatible for aistea
 
 ## 6.1 Walls 
 
-## 6.2 Lines 
+## 6.2 Open challenge
+For the 
 
-## 6.3 Open challenge
-For the open challenge we use obstacle avoidant sensors to detect the inner and outer wall. Once the robot detetcs the walls it will calibrate the values of the walls and automatically move itself to the center.
-The robot will run for three laps and stops on where it starts. This sensors helps the robot not to bump on the walls 
+## 6.3 Obstacle challenge
+In the obtacle challenge we use an open MV camera this helps us to detects the green and red obstacles. Once the robot detects an obstacle it will 
 
-## 6.4 Obstacle challenge
 
 # 7.0 Parking strategy
 
