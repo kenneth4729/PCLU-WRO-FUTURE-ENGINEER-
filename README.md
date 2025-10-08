@@ -1,11 +1,11 @@
 # PCLU 
-Hey! if you're reading this, We are the Team ARAPAAP symbolyze the dream and hope of our team. Thank you in advance for taking in consideration to read our report for the self driving car category, We hope you enjoy reading our report
+Hey! If you're reading this, we are the Team POLYTECH: symbolyze the dream and hope of our team. Thank you in advance for taking in consideration to read our report for the self-driving car category. We hope you enjoy reading our report.
 
-Team Name: Polytech
+Team Name: **Polytech**
 
-Robot Name: Arapaap
+Robot Name: **Arapaap**
 
-Match Name: Self-Driving Car
+Match Name: **Self-Driving Car**
 
 - [1.0 Introduction](#10-Introduction)
   - [1.1 About us!!](#11-About-us)
@@ -14,12 +14,12 @@ Match Name: Self-Driving Car
 - [2.0 About the car](#20-About-the-car)
   - [2.1 Our autonomous car logic](#21-Our-autonomous-car-logic)
   - [2.2 Flow diagram](#22-Flow-diagram)
-  - [2.3 Why aisteam?](#23-Why-aisteam?)
+  - [2.3 Why AISTEAM?](#23-Why-aisteam?)
 - [3.0 Mobility management](#30-Mobility-management)
   - [3.1 Bill of materials](#31-bill-of-material)
   - [3.2 Wiring diagram](#32-wiring-diagram)
   - [3.3 Motor axle](#33-Motor-axle)
-  - [3.4 Rock and pinion system](#34-Rock-and-pinion-system)
+  - [3.4 Rack and pinion system](#34-Rack-and-pinion-system)
       - [3.4.1 How the system works?](#341-How-the-system-works?)
 - [4.0 Power management](#41-Power-management)
   - [4.1 Power source](#42-Power-source)
@@ -28,7 +28,7 @@ Match Name: Self-Driving Car
   - [5.1 Base](#51-Base)
   - [5.2 Robot components](#52-Robot-components)
   - [5.3 Wiring](#53-Wiring)
-- [6.0 Srategy](#60-Strategy)
+- [6.0 Strategy](#60-Strategy)
   - [6.1 Walls](#61-Walls)
   - [6.2 Open challenge](#62-Open-challenge)
   - [6.3 Obstacle challenge](#63-Obstacle-challenge)
@@ -42,32 +42,37 @@ Match Name: Self-Driving Car
 
 | Name | Age | Roles | Fun Facts |
 |  :---: | :---: | :---: | :--- |
-| John Kenneth Orellano | 16 | Robot engineer/Research developer | Fun facts about me is I like playing chess, watching movies and anime, I also love to play online games with my friends, going to the gym, also love to play volleyball and sometimes taekwando. Legendary on CODM Single
-| John Viray | 17 | Programmer/Technical analysis | Enjoys surfing, playing, making things, boxing. Programs the robots. Banned from engineering by the engineer. Finds it too hot in the Phillipines. 1200 on the SAT and still stupid. Gold I on CSGO. Single. |
-| Galvin Sison | 15 | Builder/Robot engineer | Likes going to the gym, Makes new rigs for use in the robotics lab. Banned from programming by the programmer. Likes playing video games, A big foody, Loves redbull and monster energy drinks. Legend 2 on Mobile legends. Taken. |
+| John Kenneth Orellano | 16 | Robot engineer/Research developer | Fun facts about me is I like playing chess, watching movies and anime. I also love to play online games with my friends, going to the gym. I also love to play volleyball and sometimes taekwondo. Legendary on CODM. Single.
+| John Viray | 17 | Programmer/Technical analysis | Enjoys surfing, playing, making things, boxing. Programs the robots. Banned from engineering by the engineer. Finds it too hot in the Philippines. 1200 on the SAT and still stupid. Gold I on CSGO. Single. |
+| Galvin Sison | 15 | Builder/Robot engineer | Likes going to the gym, makes new rigs for use in the robotics lab. Banned from programming by the programmer. Likes playing video games, a big foody, loves RedBull and Monster Energy drinks. Legend 2 on Mobile legends. Taken. |
 
 ## 1.2 Team management
 
 ## 1.3 Reason to participate
 
 # 2.0 About the car 
+| | |
+| :----------: | :----------: |
+| ![1](https://raw.githubusercontent.com/kenneth4729/PCLU-WRO-FUTURE-ENGINEER-/refs/heads/main/v-photos/Front.jpg) **FRONT** | ![2](https://raw.githubusercontent.com/kenneth4729/PCLU-WRO-FUTURE-ENGINEER-/refs/heads/main/v-photos/Back.jpg) **BACK** |
+| ![3](https://raw.githubusercontent.com/kenneth4729/PCLU-WRO-FUTURE-ENGINEER-/refs/heads/main/v-photos/Left.jpg) **LEFT** | ![4](https://raw.githubusercontent.com/kenneth4729/PCLU-WRO-FUTURE-ENGINEER-/refs/heads/main/v-photos/Right.jpg) **RIGHT** |
+| ![3](https://raw.githubusercontent.com/kenneth4729/PCLU-WRO-FUTURE-ENGINEER-/refs/heads/main/v-photos/Top.jpg) **TOP** | ![4](https://raw.githubusercontent.com/kenneth4729/PCLU-WRO-FUTURE-ENGINEER-/refs/heads/main/v-photos/Bottom.jpg) **BOTTOM** |
 
 ## 2.1 Our Autonomous car logic
 
 ## 2.2 Flow diagram
 
-## 2.3 Why aisteam?
-Because aisteam is more compatible on open MV Camera and the components of the aisteam is also light weight. Aisteam provides a precise and accurate wide variety of components and sensors. 
+## 2.3 Why AISTEAM?
+Because AISTEAM is more compatible on OpenMV camera and the components of the AISTEAM is also light weight. AISTEAM provides a precise and accurate wide variety of components and sensors
 
 # 3.0 Mobility Management
-
+The encoder is connected to the rear wheel drive 
 ## 3.1 Bill of materials
 
 ## 3.2 Wiring diagram
 
 ## 3.3 Motor axle system
 
-## 3.4 Rock and pinion system
+## 3.4 Rack and pinion system
 Our self driving car uses an Rack and pinion steering system which provides precise and stable controls for moving and turning. This system is use so our vehicle can turn on the corners smoothly with this kind of system its makes our work a lot easier when turning.
 
 ### 3.4.1 How the system works?
@@ -79,13 +84,15 @@ The rack and pinion steering system converts the rotational motion of your steer
 The battery powering our self driving car is an rechargable Lithium battery moduelCOur self driving car uses an Rack and pinion steering system which provides precise and stable controls for moving and turning. This system is use so our vehicle can turn on the corners smoothly with this kind of system its makes our work a lot easier when turning.
 
 ## 4.2 Camera
-For the camera we use an open MV camera because it is more compatible for aisteam. This camera allows us to see and detect the walls and obstacles like red and green 
+For the camera we use an open MV camera because it is more compatible for aisteam. The OpenMV camera is used to see and understand its environment, it helps to detect the obstacle like 
 
 # 5.0 Building the robot 
 
 ## 5.1 Base 
+We specifically designed for a base that can be versatile, lightweight and sturdy to assure an efficient and reliable course with the self-driving robot.
 
 ## 5.2 Robot components
+All the components are connected by pegs, no adhesives were used to set each component in place, some are more intricately fastened to stay put, examples are the ordinary motor as we use it for steering, as well as the encoder motor as we use it as the primary output for power to move the robot.
 
 ## 5.3 Wiring
 
