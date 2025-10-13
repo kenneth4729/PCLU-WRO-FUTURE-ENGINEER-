@@ -37,6 +37,8 @@ Match Name: **Self-Driving Car**
   - [7.2 Obstacle challenge video](#72-Obstacle-challenge-video)
   
 # 1.0 Introduction
+Good day we are the team Polytech 
+
 
 ## 1.1 About us!!
 
@@ -69,11 +71,11 @@ The encoder is connected to the rear wheel drive
 ## 3.1 Bill of materials
 | Component | Quantity | Function |
 | :----------: | :---: | :---: |
-| <img width="200" height="auto" src="https://raw.githubusercontent.com/kenneth4729/PCLU-WRO-FUTURE-ENGINEER-/refs/heads/main/v-photos/Bottom.jpg"></img><p><b>AISTEAM Controller<b></p> | 1 | The AISTEAM hub calculates all inputs from sensors to motor outputs. |
-| <img width="200" height="auto" src="https://raw.githubusercontent.com/kenneth4729/PCLU-WRO-FUTURE-ENGINEER-/refs/heads/main/v-photos/Bottom.jpg"></img><p><b>AISTEAM Full-color Light Module<b></p> | 1 | The AISTEAM hub calculates all inputs from sensors to motor outputs. |
-| <img width="200" height="auto" src="https://raw.githubusercontent.com/kenneth4729/PCLU-WRO-FUTURE-ENGINEER-/refs/heads/main/v-photos/Bottom.jpg"></img><p><b>AISTEAM Vision Module <b></p> | 1 | The AISTEAM hub calculates all inputs from sensors to motor outputs. |
-| <img width="200" height="auto" src="https://raw.githubusercontent.com/kenneth4729/PCLU-WRO-FUTURE-ENGINEER-/refs/heads/main/v-photos/Bottom.jpg"></img><p><b>AISTEAM Ordinary Motor<b></p> | 1 | The AISTEAM hub calculates all inputs from sensors to motor outputs. |
-| <img width="200" height="auto" src="https://raw.githubusercontent.com/kenneth4729/PCLU-WRO-FUTURE-ENGINEER-/refs/heads/main/v-photos/Bottom.jpg"></img><p><b>AISTEAM Lithium Battery Module<b></p> | 1 | The AISTEAM hub calculates all inputs from sensors to motor outputs. |
+| <img width="200" height="auto" src="https://raw.githubusercontent.com/kenneth4729/PCLU-WRO-FUTURE-ENGINEER-/refs/heads/main/others/Controller.jpg"></img><p><b>AISTEAM Controller<b></p> | 1 | The AISTEAM hub calculates all inputs from sensors to motor outputs. |
+| <img width="200" height="auto" src="https://raw.githubusercontent.com/kenneth4729/PCLU-WRO-FUTURE-ENGINEER-/refs/heads/main/others/Full-color%20light%20module.jpg"></img><p><b>AISTEAM Full-color Light Module<b></p> | 1 | The AISTEAM hub calculates all inputs from sensors to motor outputs. |
+| <img width="200" height="auto" src="https://raw.githubusercontent.com/kenneth4729/PCLU-WRO-FUTURE-ENGINEER-/refs/heads/main/others/OpenMV%20camera.jpg"></img><p><b>AISTEAM Vision Module <b></p> | 1 | The AISTEAM hub calculates all inputs from sensors to motor outputs. |
+| <img width="200" height="auto" src="https://raw.githubusercontent.com/kenneth4729/PCLU-WRO-FUTURE-ENGINEER-/refs/heads/main/others/Ordinary%20motor.jpg"></img><p><b>AISTEAM Ordinary Motor<b></p> | 2 | Serves as the main driving motor of the robot, give power to the wheels and use for precise turning of the robot. |
+| <img width="200" height="auto" src="https://raw.githubusercontent.com/kenneth4729/PCLU-WRO-FUTURE-ENGINEER-/refs/heads/main/others/Lithium%20battery.jpg"></img><p><b>AISTEAM Lithium Battery Module<b></p> | 1 | The Lithium battery module gives a sustainable power to the robot and has an capacity of 1100mAh and an output voltage of 7.4V |
 
 
 ## 3.2 Wiring diagram
@@ -111,13 +113,15 @@ All the components are connected by pegs, no adhesives were used to set each com
 ## 6.1 Walls 
 
 ## 6.2 Open challenge
-For the open challenge,
+For the open challenge
 
 ## 6.3 Obstacle challenge
 In the obstacle challenge, we used an OpenMV camera. This helps us to detect the green and red obstacles. Once the robot detects an obstacle it will 
 
-
 # 7.0 Parking strategy
+After completing the Three laps. Our robot begins the detection of the parking boundaries, the vehicle assess the available space and align it self with the detected area. If the robot commited the exact angle prior on the given parking space, the vehicle executes a parallel parking maneuver. The vehicle adjust its orientation to locate the exact parking area. Repeating this process until successful parking Achieved.
+
+
 
 ## 7.1 Open challenge video
 
