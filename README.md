@@ -1,4 +1,4 @@
-# PCLU POLYTECH - TEAM PHILIPPINES
+# *2025 World Robot Olympiad Future Engineers* | PCLU POLYTECH - TEAM PHILIPPINES
 # 1.0 Introduction 
 <p align="center">Hey! If you're reading this, we are the Team POLYTECH: symbolizing the dream and hope of our team. Thank you in advance for taking in consideration to read our report for the self-driving car category. We hope you enjoy reading our report.</p>
 
@@ -17,13 +17,13 @@ Match Name: **Self-Driving Car**
   - [2.2 Flow diagram](#22-Flow-diagram)
   - [2.3 Why AISTEAM?](#23-Why-aisteam)
 - [3.0 Mobility management](#30-Mobility-management)
-  - [3.1 Bill of materials](#31-bill-of-material)
+  - [3.1 Bill of materials](#31-bill-of-materials)
   - [3.2 Wiring diagram](#32-wiring-diagram)
-  - [3.3 Motor axle](#33-Motor-axle)
+  - [3.3 Motor axle system](#33-Motor-axle-system)
   - [3.4 Rack and pinion system](#34-Rack-and-pinion-system)
-      - [3.4.1 How the system works?](#341-How-the-system-works?)
-- [4.0 Power management](#41-Power-management)
-  - [4.1 Power source](#42-Power-source)
+      - [3.4.1 How the system works?](#341-How-the-system-works)
+- [4.0 Power management](#40-Power-management)
+  - [4.1 Power source](#41-Power-source)
   - [4.2 Camera](#42-Camera)
 - [5.0 Building the robot](#50-Building-the-robot)
   - [5.1 Base](#51-Base)
@@ -33,8 +33,8 @@ Match Name: **Self-Driving Car**
   - [6.1 Walls](#61-Walls)
   - [6.2 Open challenge](#62-Open-challenge)
   - [6.3 Obstacle challenge](#63-Obstacle-challenge)
-- [7.0 Parking strategy](#70-Parking-system)
-  - [7.1 Open challenge video](#71-Open-challenge)
+- [7.0 Parking strategy](#70-Parking-strategy)
+  - [7.1 Open challenge video](#71-Open-challenge-video)
   - [7.2 Obstacle challenge video](#72-Obstacle-challenge-video)
   
 
@@ -49,6 +49,7 @@ Match Name: **Self-Driving Car**
 ## 1.2 Team management
 
 ## 1.3 Reason to participate
+We participate in this competition in order to showcase our skills and talents in order to succeed and cooperate as a great team. We must utilize our skills and cooperation in order to represent the philippines and be able to make our people proud and give them something to be proud about. We enjoy the challenge of being able to go against the biggest schools in the Phillipines and creating robots that could one day make a difference. Most of all, we aim to win, but we also aim to have fun while doing so and enjoy what we do despite the hard comning and all the negativities that come along our way on our path to victory.
 
 # 2.0 About the car 
 | | |
@@ -62,7 +63,7 @@ Match Name: **Self-Driving Car**
 ## 2.2 Flow diagram
 
 ## 2.3 Why AISTEAM?
-Our Team decided to use AISTEAM because it is more compatible on OpenMV camera as well as for the components of the AISTEAM that we use is light weight and versatile. AISTEAM provides us precise and accurate wide variety of components and sensors
+Our team decided to use AISTEAM because it is more compatible on the Vision Module/OpenMV camera as well as for the components of the AISTEAM that we use is light weight and versatile. AISTEAM provides us precise and accurate wide variety of components and sensors
 
 # 3.0 Mobility Management
 
@@ -126,5 +127,6 @@ After completing the Three laps. Our robot begins the detection of the parking b
 
 
 ## 7.1 Open challenge video
-
+[![Youtube | Open Challenge](https://img.shields.io/badge/Open%20Challenge-YouTube?logo=youtube&label=Youtube&labelColor=red&color=gray)]()
 ## 7.2 Obstacle challenge video
+[![Youtube | Obstacle Challenge](https://img.shields.io/badge/Obstacle%20Challenge-YouTube?logo=youtube&label=Youtube&labelColor=red&color=gray)]()
